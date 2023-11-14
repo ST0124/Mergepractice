@@ -1,4 +1,4 @@
-d3.csv('../GCB2022v27_MtCO2_flat.csv').then(data => {
+d3.csv('./practice3/GCB2022v27_MtCO2_flat.csv').then(data => {
     
     // 处理数据
     let df = data;
